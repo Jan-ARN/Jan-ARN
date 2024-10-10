@@ -10,9 +10,6 @@
 
 ---
 
-### 🌱 Currently Learning
-- JavaScript optimization techniques
-
 ### 🚀 Projects
 - ilert UI
 
