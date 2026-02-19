@@ -25,12 +25,4 @@
   <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" width="40" height="39"/>
 </div>
 
----
-
-### 📈 GitHub Stats
-<div id="footer" align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jan-ARN&show_icons=true&theme=radical" alt="My GitHub Stats"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jan-ARN&layout=compact&theme=radical" alt="My Top Languages"/>
-</div>
 
