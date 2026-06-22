@@ -1,5 +1,5 @@
 <!-- ===== HERO (custom SVG — assets/banner.svg) — mountains at dusk, beacon on watch ===== -->
-<img width="100%" src="https://raw.githubusercontent.com/Jan-ARN/Jan-ARN/main/assets/banner.svg" alt="Jan Arnemann — front-end developer at ilert"/>
+<img width="100%" src="https://raw.githubusercontent.com/Jan-ARN/Jan-ARN/main/assets/banner.svg?v=2" alt="Jan Arnemann — front-end developer at ilert"/>
 
 <div align="center">
 
@@ -32,4 +32,4 @@ interface feel calm under pressure.
 </div>
 
 <!-- ===== FOOTER (custom SVG — assets/footer.svg) — the same ridgeline, now at night ===== -->
-<img width="100%" src="https://raw.githubusercontent.com/Jan-ARN/Jan-ARN/main/assets/footer.svg" alt="the same ridgeline at night — still on call"/>
+<img width="100%" src="https://raw.githubusercontent.com/Jan-ARN/Jan-ARN/main/assets/footer.svg?v=2" alt="the same ridgeline at night — still on call"/>
