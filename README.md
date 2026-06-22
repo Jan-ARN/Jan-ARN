@@ -4,7 +4,7 @@
 <!-- ===== TYPING ANIMATION ===== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0375E5&center=true&vCenter=true&width=620&height=50&lines=Junior+Front-End+Developer+%40+ilert;React+%C2%B7+TypeScript+%C2%B7+Ionic+%C2%B7+Capacitor;I+build+the+ilert+mobile+app+%F0%9F%93%B1;Turning+incidents+into+clean+UI+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0375E5&center=true&vCenter=true&width=620&height=50&lines=Front-End+Developer+%40+ilert;TypeScript+%C2%B7+React+%C2%B7+Ionic+%C2%B7+Capacitor;I+build+the+ilert+mobile+app+%F0%9F%93%B1;Turning+incidents+into+clean+UI+%E2%9C%A8)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Jan-ARN&label=Profile%20views&color=0375E5&style=flat" alt="profile views"/>
 <a href="https://github.com/Jan-ARN?tab=followers"><img src="https://img.shields.io/github/followers/Jan-ARN?label=Followers&style=flat&color=0375E5&logo=github" alt="followers"/></a>
@@ -16,10 +16,10 @@
 ## 👋 About me
 
 - 🧑‍💻 Front-end developer at **[ilert](https://ilert.com)** — alerting & incident management
-- 📱 Building the **ilert mobile app** with React, Ionic & Capacitor
+- 📱 I build the **ilert mobile app** with React, Ionic & Capacitor — one codebase shipping to **iOS, Android, web & desktop**
+- 🗃️ State with **MobX**, UI with **MUI + Emotion**, and a bit of **Go** powering the app server
 - 🎨 I care about clean, well-designed UI and pixel-perfect detail
-- 🌱 Currently leveling up on mobile, animations and design systems
-- ⚡ Fun fact: I think a great loading skeleton should never make the layout jump
+- ⚡ Fun fact: the same TypeScript runs natively on a phone and in a browser tab — Capacitor still feels like magic
 
 <!-- ===== TECH STACK ===== -->
 ## 🛠️ Tech Stack
@@ -28,17 +28,18 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=ts,js,html,css&theme=dark" alt="languages"/>
+<img src="https://skillicons.dev/icons?i=ts,js,go,html,css&theme=dark" height="48" alt="languages"/>
 
 **Front-End & Mobile**
 
-<img src="https://skillicons.dev/icons?i=react,sass,ionic,vite&theme=dark" alt="frontend"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="48" alt="mui"/>
+<img src="https://skillicons.dev/icons?i=react,ionic&theme=dark" height="48" alt="frontend"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/capacitor/capacitor-original.svg" height="48" alt="capacitor"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="48" alt="mui"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mobx/mobx-original.svg" height="48" alt="mobx"/>
 
 **Tooling**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark" alt="tooling"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,docker&theme=dark" height="48" alt="tooling"/>
 
 </div>
 
@@ -47,19 +48,8 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Jan-ARN&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&title_color=0375E5&icon_color=0375E5&text_color=c9d1d9&bg_color=0d1117" alt="stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jan-ARN&layout=compact&langs_count=8&hide_border=true&title_color=0375E5&text_color=c9d1d9&bg_color=0d1117" alt="top languages"/>
-
-<img height="165" src="https://streak-stats.demolab.com?user=Jan-ARN&hide_border=true&background=0d1117&stroke=0375E5&ring=0375E5&fire=0375E5&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=0375E5&sideLabels=8b949e&dates=8b949e" alt="streak"/>
-
-</div>
-
-<!-- ===== ACTIVITY GRAPH ===== -->
-## 📈 Contribution Graph
-
-<div align="center">
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jan-ARN&bg_color=0d1117&color=0375E5&line=0375E5&point=ffffff&area=true&area_color=0375E5&hide_border=true" alt="activity graph"/>
+<img height="165" src="https://jan-arn-stats.vercel.app/api?username=Jan-ARN&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&title_color=0375E5&icon_color=0375E5&text_color=c9d1d9&bg_color=0d1117" alt="stats"/>
+<img height="165" src="https://jan-arn-stats.vercel.app/api/top-langs/?username=Jan-ARN&layout=compact&langs_count=8&hide_border=true&title_color=0375E5&text_color=c9d1d9&bg_color=0d1117" alt="top languages"/>
 
 </div>
 
