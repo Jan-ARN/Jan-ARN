@@ -16,8 +16,8 @@
 ## 👋 About me
 
 - 🧑‍💻 Front-end developer at **[ilert](https://ilert.com)** — alerting & incident management
-- 📱 I build the **ilert mobile app** with React, Ionic & Capacitor — one codebase shipping to **iOS, Android, web & desktop**
-- 🗃️ State with **MobX**, styling with **MUI + Emotion**
+- 📱 I build the **ilert mobile app** with React, Ionic & Capacitor
+- 🗃️ State with **MobX**, styling with **MUI**
 - 🎨 I care about clean, well-designed UI and the small details
 
 <!-- ===== TECH STACK ===== -->
