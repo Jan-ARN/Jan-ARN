@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 150" width="1200" height="150" role="img" aria-label="misty mountains at dusk">
+  <defs>
+    <linearGradient id="dusk" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#CFE0EA"/>
+      <stop offset="1" stop-color="#46637A"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#F0A84A" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#F0A84A" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="fclip"><rect width="1200" height="150"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#fclip)">
+    <rect width="1200" height="150" fill="url(#dusk)"/>
+    <circle cx="150" cy="44" r="22" fill="#F3ECDB" opacity="0.55"/>
+
+    <!-- distant birds -->
+    <g stroke="#CFE0EA" stroke-width="2" fill="none" stroke-linecap="round" opacity="0.6">
+      <path d="M300,40 q6,-5 12,0 q6,-5 12,0"/>
+      <path d="M348,52 q5,-4 10,0 q5,-4 10,0"/>
+    </g>
+
+    <!-- mountains -->
+    <path d="M0,150 L160,96 L320,148 L500,90 L680,150 L860,98 L1040,150 L1200,104 L1200,150 Z" fill="#5E7C92" opacity="0.85"/>
+    <path d="M0,150 L120,118 L300,150 L470,112 L640,150 L820,116 L1010,150 L1180,118 L1200,122 L1200,150 Z" fill="#3C586C"/>
+
+    <!-- distant campfire glow -->
+    <ellipse cx="470" cy="116" rx="34" ry="18" fill="url(#glow)"/>
+    <circle cx="470" cy="114" r="3" fill="#F0A84A"/>
+  </g>
+</svg>
