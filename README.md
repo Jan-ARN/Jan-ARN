@@ -1,10 +1,10 @@
-<!-- ===== HEADER BANNER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2E4A5E,50:6B8AA0,100:C9DCE8&height=210&section=header&text=Jan%20Arnemann&fontSize=46&fontColor=F3ECDB&fontAlignY=34&desc=Front-End%20Developer%20%40%20ilert&descSize=18&descColor=F3ECDB&descAlignY=56&animation=fadeIn" alt="header"/>
+<!-- ===== HEADER (custom animated SVG — assets/banner.svg) ===== -->
+<img width="100%" src="https://raw.githubusercontent.com/Jan-ARN/Jan-ARN/main/assets/banner.svg" alt="Jan Arnemann — Front-End Developer at ilert"/>
 
 <!-- ===== TYPING ANIMATION ===== -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=4E7491&center=true&vCenter=true&width=640&height=50&lines=Front-End+Developer+%40+ilert;TypeScript+%C2%B7+React+%C2%B7+Ionic+%C2%B7+Capacitor;Bending+incident+chaos+into+calm+UI+%E2%9C%A8;One+codebase+%E2%86%92+iOS+%C2%B7+Android+%C2%B7+web+%C2%B7+desktop+%F0%9F%A6%AC)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=4E7491&center=true&vCenter=true&width=640&height=50&lines=Front-End+Developer+%40+ilert;TypeScript+%C2%B7+React+%C2%B7+Ionic+%C2%B7+Capacitor;I+build+the+ilert+mobile+app+%F0%9F%93%B1;One+codebase+%E2%86%92+iOS+%C2%B7+Android+%C2%B7+web+%C2%B7+desktop)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=Jan-ARN&label=Profile%20views&color=6B8AA0&style=flat" alt="profile views"/>
 <a href="https://github.com/Jan-ARN?tab=followers"><img src="https://img.shields.io/github/followers/Jan-ARN?label=Followers&style=flat&color=6B8AA0&logo=github" alt="followers"/></a>
@@ -17,9 +17,8 @@
 
 - 🧑‍💻 Front-end developer at **[ilert](https://ilert.com)** — alerting & incident management
 - 📱 I build the **ilert mobile app** with React, Ionic & Capacitor — one codebase shipping to **iOS, Android, web & desktop**
-- 🗃️ State with **MobX**, UI with **MUI + Emotion**, and a bit of **Go** powering the app server
-- 🎨 I care about clean, well-designed UI and pixel-perfect detail
-- 🦬 Off the keyboard: somewhere in the *Avatar* universe — yip yip
+- 🗃️ State with **MobX**, styling with **MUI + Emotion**
+- 🎨 I care about clean, well-designed UI and the small details
 
 <!-- ===== TECH STACK ===== -->
 ## 🛠️ Tech Stack
@@ -28,7 +27,7 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=ts,js,go,html,css&theme=dark" height="48" alt="languages"/>
+<img src="https://skillicons.dev/icons?i=ts,js,html,css&theme=dark" height="48" alt="languages"/>
 
 **Front-End & Mobile**
 
@@ -39,16 +38,15 @@
 
 **Tooling**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,npm,docker&theme=dark" height="48" alt="tooling"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark" height="48" alt="tooling"/>
 
 </div>
 
 <!-- ===== WHAT I BUILD ===== -->
 ## 🚀 What I'm building
 
-- 📱 **ilert mobile** — the iOS · Android · web · desktop client for ilert's incident-management platform, built on React + Ionic + Capacitor with MobX and MUI
-- 🧩 A **shared component library** used across the mobile app and the main ilert web app
-- 🛎️ Day-to-day: incident & alert UIs, on-call schedules, push notifications, and keeping four platforms in sync from a single codebase
+- 📱 **ilert mobile** — the cross-platform (iOS · Android · web · desktop) client for ilert's incident-management platform, built with Capacitor + Ionic React, TypeScript, MobX and MUI
+- 🧩 A **shared UI component library** used by both the mobile app and the main ilert web app
 
 > Most of my work lives in private repos at ilert — so the contribution graph below is a truer picture of what I'm shipping than any star or commit count would be.
 
@@ -65,12 +63,5 @@
 
 </div>
 
-<!-- ===== CLOSING ===== -->
-<div align="center">
-
-*“Hope is something you give yourself.”* — Uncle Iroh
-
-</div>
-
-<!-- ===== FOOTER ===== -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:C9DCE8,50:6B8AA0,100:2E4A5E&height=120&section=footer" alt="footer"/>
+<!-- ===== FOOTER (custom SVG — assets/footer.svg) ===== -->
+<img width="100%" src="https://raw.githubusercontent.com/Jan-ARN/Jan-ARN/main/assets/footer.svg" alt="misty mountains at dusk"/>
