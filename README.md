@@ -30,15 +30,15 @@
 
 <img src="https://skillicons.dev/icons?i=ts,js,html,css&theme=dark" alt="languages"/>
 
-**Front-End**
+**Front-End & Mobile**
 
 <img src="https://skillicons.dev/icons?i=react,sass,ionic,vite&theme=dark" alt="frontend"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="48" alt="mui"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/capacitor/capacitor-original.svg" height="48" alt="capacitor"/>
 
-**Mobile & Tooling**
+**Tooling**
 
-<img src="https://skillicons.dev/icons?i=swift,kotlin,git,github,vscode,figma,npm&theme=dark" alt="tooling"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,npm&theme=dark" alt="tooling"/>
 
 </div>
 
@@ -60,15 +60,6 @@
 <div align="center">
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jan-ARN&bg_color=0d1117&color=0375E5&line=0375E5&point=ffffff&area=true&area_color=0375E5&hide_border=true" alt="activity graph"/>
-
-</div>
-
-<!-- ===== TROPHIES ===== -->
-## 🏆 Trophies
-
-<div align="center">
-
-<img width="95%" src="https://github-profile-trophy.vercel.app?username=Jan-ARN&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4" alt="trophies"/>
 
 </div>
 
