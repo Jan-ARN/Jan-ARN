@@ -1,65 +1,31 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Jan Arnemann — Front-End Developer at ilert">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-label="Jan Arnemann — Front-End Developer at ilert">
   <defs>
-    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#BAD3E2"/>
-      <stop offset="0.7" stop-color="#D3E3EC"/>
-      <stop offset="1" stop-color="#E4EEF2"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#1C3445"/>
+      <stop offset="0.55" stop-color="#2F4D63"/>
+      <stop offset="1" stop-color="#476A82"/>
     </linearGradient>
-    <linearGradient id="appa" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0" stop-color="#F3EAD4"/>
-      <stop offset="1" stop-color="#D8C8A4"/>
-    </linearGradient>
-    <clipPath id="frame"><rect width="1200" height="300"/></clipPath>
+    <radialGradient id="halo" cx="0.5" cy="0.5" r="0.5">
+      <stop offset="0" stop-color="#9FBBCD" stop-opacity="0.5"/>
+      <stop offset="1" stop-color="#9FBBCD" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="frame"><rect width="1200" height="240" rx="0"/></clipPath>
   </defs>
 
   <g clip-path="url(#frame)">
-    <rect width="1200" height="300" fill="url(#sky)"/>
-    <circle cx="935" cy="62" r="130" fill="#FFFFFF" opacity="0.16"/>
+    <rect width="1200" height="240" fill="url(#bg)"/>
 
-    <!-- mountain ranges, far to near -->
-    <path d="M0,206 L120,150 L250,198 L380,138 L520,204 L660,150 L820,208 L980,158 L1120,204 L1200,172 L1200,300 L0,300 Z" fill="#A6C0D0" opacity="0.65"/>
-    <path d="M0,248 L150,188 L300,244 L460,184 L620,250 L780,194 L940,254 L1100,198 L1200,238 L1200,300 L0,300 Z" fill="#7C99AD" opacity="0.85"/>
-    <path d="M0,300 L100,252 L260,300 L420,246 L600,300 L760,250 L920,300 L1080,256 L1200,300 Z" fill="#587890"/>
-    <path d="M0,300 L180,276 L380,300 L560,272 L760,300 L960,276 L1200,300 Z" fill="#3C586C"/>
-
-    <!-- drifting clouds -->
-    <g fill="#FFFFFF" opacity="0.45">
-      <g>
-        <g transform="translate(0,72)">
-          <ellipse cx="0" cy="0" rx="46" ry="15"/>
-          <ellipse cx="34" cy="-9" rx="30" ry="13"/>
-          <ellipse cx="-30" cy="-4" rx="26" ry="12"/>
-        </g>
-        <animateTransform attributeName="transform" type="translate" from="-160 0" to="1360 0" dur="48s" repeatCount="indefinite"/>
-      </g>
-      <g opacity="0.7">
-        <g transform="translate(0,128)">
-          <ellipse cx="0" cy="0" rx="38" ry="12"/>
-          <ellipse cx="28" cy="-7" rx="24" ry="10"/>
-          <ellipse cx="-24" cy="-3" rx="20" ry="9"/>
-        </g>
-        <animateTransform attributeName="transform" type="translate" from="-1000 0" to="2200 0" dur="70s" repeatCount="indefinite"/>
-      </g>
+    <!-- slow drifting halo for subtle depth -->
+    <g>
+      <ellipse cx="0" cy="0" rx="360" ry="360" fill="url(#halo)" opacity="0.6"/>
+      <animateTransform attributeName="transform" type="translate" values="940 30; 1010 70; 940 30" dur="16s" repeatCount="indefinite" calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" keyTimes="0;0.5;1"/>
     </g>
 
-    <!-- distant birds -->
-    <g stroke="#4E6B7C" stroke-width="2.4" fill="none" stroke-linecap="round" opacity="0.5">
-      <g>
-        <animateTransform attributeName="transform" type="translate" values="800 72; 470 98; 800 72" dur="36s" repeatCount="indefinite"/>
-        <path d="M0,0 q9,-8 18,0 q9,-8 18,0"/>
-      </g>
-      <g>
-        <animateTransform attributeName="transform" type="translate" values="880 104; 560 134; 880 104" dur="36s" begin="-4s" repeatCount="indefinite"/>
-        <path d="M0,0 q7,-6 14,0 q7,-6 14,0"/>
-      </g>
-      <g>
-        <animateTransform attributeName="transform" type="translate" values="990 84; 690 112; 990 84" dur="36s" begin="-8s" repeatCount="indefinite"/>
-        <path d="M0,0 q6,-5 12,0 q6,-5 12,0"/>
-      </g>
-    </g>
+    <!-- accent bar -->
+    <rect x="82" y="92" width="60" height="5" rx="2.5" fill="#C79A5E"/>
 
     <!-- text -->
-    <text x="72" y="120" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="56" font-weight="700" fill="#27435A" letter-spacing="0.5">Jan Arnemann</text>
-    <text x="74" y="158" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="500" fill="#4E6B7C" letter-spacing="0.5">Front-End Developer @ ilert</text>
+    <text x="80" y="150" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#F3ECDB" letter-spacing="0.4">Jan Arnemann</text>
+    <text x="82" y="188" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="500" fill="#A9C5D6" letter-spacing="2.2">FRONT-END DEVELOPER · ILERT</text>
   </g>
 </svg>
