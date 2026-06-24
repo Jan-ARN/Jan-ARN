@@ -16,16 +16,9 @@ interface feel calm under pressure.
 
 </div>
 
-<!-- ===== SELECTED WORK — two lights on the same ridge ===== -->
+<!-- ===== SELECTED WORK ===== -->
 <div align="center">
 
-<br/>
-
-**◉ &nbsp;&nbsp; SELECTED&nbsp;WORK &nbsp;&nbsp; ◉**
-
-<sub><i>two lights on the same ridge — one keeps the work clean, one plays after dark</i></sub>
-
-<br/>
 <br/>
 
 <a href="https://github.com/Jan-ARN/occam">
