@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 150" width="420" height="150" role="img" aria-label="occam — anti-slop / over-engineering code review plugin for Claude Code">
+  <defs>
+    <linearGradient id="cardBg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#13212C"/>
+      <stop offset="1" stop-color="#0F1C26"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="0.92" cy="0.08" r="0.6">
+      <stop offset="0" stop-color="#C79A5E" stop-opacity="0.16"/>
+      <stop offset="1" stop-color="#C79A5E" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="clip"><rect x="0.5" y="0.5" width="419" height="149" rx="10"/></clipPath>
+  </defs>
+
+  <g clip-path="url(#clip)">
+    <rect x="0.5" y="0.5" width="419" height="149" rx="10" fill="url(#cardBg)"/>
+    <rect x="0.5" y="0.5" width="419" height="149" fill="url(#glow)"/>
+  </g>
+  <rect x="0.5" y="0.5" width="419" height="149" rx="10" fill="none" stroke="#243F52" stroke-width="1"/>
+
+  <!-- repo icon -->
+  <g transform="translate(24,26)" fill="#9FBBCD">
+    <path d="M2 2.5A2.5 2.5 0 0 1 4.5 0h8.75a.75.75 0 0 1 .75.75v12.5a.75.75 0 0 1-.75.75h-2.5a.75.75 0 0 1 0-1.5h1.75v-2h-8a1 1 0 0 0-.714 1.7.75.75 0 1 1-1.072 1.05A2.495 2.495 0 0 1 2 11.5Zm10.5-1h-8a1 1 0 0 0-1 1v6.708A2.486 2.486 0 0 1 4.5 9h8Z"/>
+  </g>
+
+  <text x="48" y="39" font-family="Georgia, 'Times New Roman', serif" font-size="21" font-weight="700" fill="#F0C880" letter-spacing="0.3">occam</text>
+
+  <text x="24" y="76" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" fill="#C9D6E2">
+    <tspan x="24" dy="0">Anti-slop / over-engineering code</tspan>
+    <tspan x="24" dy="20">review plugin for Claude Code.</tspan>
+  </text>
+
+  <!-- footer: language -->
+  <circle cx="30" cy="127" r="6" fill="#89e051"/>
+  <text x="42" y="131" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" fill="#A9C5D6">Shell</text>
+</svg>
