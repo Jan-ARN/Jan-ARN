@@ -19,14 +19,11 @@ interface feel calm under pressure.
 <!-- ===== SELECTED WORK ===== -->
 <div align="center">
 
-<br/>
-
 <a href="https://github.com/Jan-ARN/occam">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jan-ARN&repo=occam&title_color=F0C880&text_color=DCE6EE&icon_color=9FBBCD&bg_color=0F1C26&border_color=243F52&show_owner=false" alt="occam — anti-slop / over-engineering code review plugin for Claude Code"/>
+  <img width="48%" src="https://raw.githubusercontent.com/Jan-ARN/Jan-ARN/main/assets/card-occam.svg" alt="occam — anti-slop / over-engineering code review plugin for Claude Code"/>
 </a>
-&nbsp;
 <a href="https://github.com/Jan-ARN/nocturne">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Jan-ARN&repo=nocturne&title_color=F0C880&text_color=DCE6EE&icon_color=9FBBCD&bg_color=0F1C26&border_color=243F52&show_owner=false" alt="nocturne — endless, generative music in the browser"/>
+  <img width="48%" src="https://raw.githubusercontent.com/Jan-ARN/Jan-ARN/main/assets/card-nocturne.svg" alt="nocturne — endless, generative music in the browser"/>
 </a>
 
 </div>
