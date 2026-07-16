@@ -5,10 +5,9 @@
 
 ### I build interfaces for when things go wrong.
 
-Front-end developer at **[ilert](https://ilert.com)**, an alerting &amp; incident-management platform.
-I work mostly on the mobile app — one TypeScript codebase shipping to iOS, Android, web and desktop —
-and on the shared UI library behind it. I care a lot about the small details that make an
-interface feel calm under pressure.
+Front-end developer at **[ilert](https://ilert.com)** — an alerting & incident-management platform.
+ 
+I work on both the **web app** and the **mobile app**: two TypeScript codebases on a similar stack, with the mobile app shipping to iOS and Android. I care a lot about the small details that make an interface feel calm under pressure.
 
 <br/>
 
